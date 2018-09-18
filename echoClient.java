@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author 1156
+ * @author 1153
  */
 public class echoClient {
     static Boolean isConnected = false;
